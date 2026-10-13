@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer;Web+%26+Mobile+Apps;Informatics+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=Freelance+Web+Developer;Web+%26+Mobile+Apps;Informatics+Student" alt="Typing SVG" />
 
 # Hi 👋, I'm Wildan Fathu Rijan
  • Informatics Student
